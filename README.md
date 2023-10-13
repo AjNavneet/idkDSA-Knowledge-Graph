@@ -17,3 +17,13 @@ This repository focuses on algorithmic theory and programming practices for Data
 - 3.12 - Linked Lists: Problems & Solutions -> 🌀
 
 ---
+
+### Stacks
+
+4.1 What is a Stack? -> ✅
+4.2 How Stacks are Used -> ✅
+4.3 Stack ADT -> ✅
+4.4 Applications -> ✅
+4.5 Implementation -> ✅
+4.6 Comparison of Implementations -> ✅
+4.7 Stacks: Problems & Solutionss -> 🌀
