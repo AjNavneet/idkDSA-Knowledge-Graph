@@ -27,3 +27,16 @@ This repository focuses on algorithmic theory and programming practices for Data
 - 4.5 Implementation -> ✅
 - 4.6 Comparison of Implementations -> ✅
 - 4.7 Stacks: Problems & Solutionss -> 🌀
+
+---
+
+### Queues
+
+- 5.1 What is a Queue? -> ✅
+- 5.2 How are Queues Used -> ✅
+- 5.3 Queue ADT -> ✅
+- 5.4 Exceptions -> ✅
+- 5.5 Applications -> ✅
+- 5.6 Implementation -> ✅
+- 5.7 Queues: Problems & Solutions -> 🌀
+
