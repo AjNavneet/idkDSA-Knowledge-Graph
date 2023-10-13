@@ -11,9 +11,9 @@ This repository focuses on algorithmic theory and programming practices for Data
 - 3.6 - Singly Linked Lists -> ✅
 - 3.7 - Doubly Linked Lists -> ✅
 - 3.8 - Circular Linked Lists -> ✅
-- 3.9 - A Memory-efficient Doubly Linked List
-- 3.10 - Unrolled Linked Lists
-- 3.11 - Skip Lists
-- 3.12 - Linked Lists: Problems & Solutions
+- 3.9 - A Memory-efficient Doubly Linked List -> ✅
+- 3.10 - Unrolled Linked Lists -> ✅
+- 3.11 - Skip Lists -> ✅
+- 3.12 - Linked Lists: Problems & Solutions -> 🌀
 
 ---
