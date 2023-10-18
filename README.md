@@ -71,3 +71,15 @@ This repository focuses on algorithmic theory and programming practices for Data
 - 7.7 Heapsort -> ✅
 - 7.8 Priority Queues [Heaps]: Problems & Solutions -> 🌀
 
+
+### Disjoint Sets ADT
+
+- 8.1 Introduction -> ✅
+- 8.2 Equivalence Relations and Equivalence Classes -> ✅
+- 8.3 Disjoint Sets ADT -> ✅
+- 8.4 Applications -> ✅
+- 8.5 Tradeoffs in Implementing Disjoint Sets ADT -> ✅
+- 8.8 Fast UNION Implementation (Slow FIND) -> ✅
+- 8.9 Fast UNION Implementations (Ouick FIND) -> ✅
+- 8.10 Summary -> ✅
+- 8.11 Disjoint Sets: Problems & Solutions -> 🌀
