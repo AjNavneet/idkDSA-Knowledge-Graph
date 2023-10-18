@@ -58,3 +58,16 @@ This repository focuses on algorithmic theory and programming practices for Data
 - 5.6 Implementation -> ✅
 - 5.7 Queues: Problems & Solutions -> 🌀
 
+---
+
+### Priority Queues and Heaps
+
+- 7.1 What is a Priority Queue? -> ✅
+- 7.2 Priority Queue ADT -> ✅
+- 7.3 Priority Queue Applications -> ✅
+- 7.4 Priority Queue Implementations -> ✅
+- 7.5 Heaps and Binary Heaps -> ✅
+- 7.6 Binary Heaps -> ✅
+- 7.7 Heapsort -> ✅
+- 7.8 Priority Queues [Heaps]: Problems & Solutions -> 🌀
+
