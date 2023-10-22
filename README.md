@@ -71,6 +71,7 @@ This repository focuses on algorithmic theory and programming practices for Data
 - 7.7 Heapsort -> ✅
 - 7.8 Priority Queues [Heaps]: Problems & Solutions -> 🌀
 
+---
 
 ### Disjoint Sets ADT
 
