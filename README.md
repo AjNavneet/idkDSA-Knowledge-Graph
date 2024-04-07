@@ -110,7 +110,11 @@ This repository focuses on algorithmic practices for Data Structures using pytho
 
 ---
 
-## Graphs
+## Queue Stack -> ✅ 
+
+- Queue_Stack + DFS
+- Queue_Stack + Hash_Table
+- Queue_Stack + Simple
 
 ---
 
