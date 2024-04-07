@@ -27,30 +27,30 @@ This repository focuses on algorithmic practices for Data Structures using pytho
 
 ## Strings
 
-- Strings + Backtracking
-- Strings + BFS
-- Strings + Bit_Manipulation
-- Strings + DFS
-- Strings + Dynamic_Programming
-- Strings + Greedy
-- Strings + Hash_Table
-- Strings + Math
-- Strings + Queue
-- Strings + Recursion
-- Strings + Simple
-- Strings + Sliding_Window
-- Strings + Sorting
-- Strings + Stack
-- Strings + Trie
-- Strings + Two_Pointers
-
----
-
-## Hash
+- Strings + Backtracking -> ✅
+- Strings + BFS -> ✅
+- Strings + Bit_Manipulation -> ✅
+- Strings + DFS -> ✅
+- Strings + Dynamic_Programming -> ✅
+- Strings + Greedy -> ✅
+- Strings + Hash_Table -> ✅
+- Strings + Math -> ✅
+- Strings + Queue -> ✅
+- Strings + Recursion -> ✅
+- Strings + Simple -> ✅
+- Strings + Sliding_Window -> ✅
+- Strings + Sorting -> ✅
+- Strings + Stack -> ✅
+- Strings + Trie -> ✅
+- Strings + Two_Pointers -> ✅
 
 ---
 
 ## Linked Lists
+
+---
+
+## Hash
 
 ---
 
