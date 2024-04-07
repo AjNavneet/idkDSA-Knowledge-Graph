@@ -1,6 +1,6 @@
 # idkDSA Knowledge Graph
 
-This repository focuses on algorithmic practices for Data Structures using python, C++, Java and TypeScript.
+This repository focuses on interview baseed algorithmic practices for Data Structures using Python, C++, Java and TypeScript.
 
 ## Arrays -> ✅
 
