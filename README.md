@@ -58,7 +58,13 @@ This repository focuses on algorithmic practices for Data Structures using pytho
 
 ---
 
-## Hash
+## Binary Search Trees -> ✅
+
+- BST + DFS
+- BST + Dynamic_Programming
+- BST + Queue
+- BST + Stack
+- BST + Tree_Property
 
 ---
 
