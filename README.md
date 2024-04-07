@@ -79,7 +79,15 @@ This repository focuses on algorithmic practices for Data Structures using pytho
 
 ---
 
-## Matrix
+## Graphs -> ✅
+
+- Graphs + BFS
+- Graphs + DFS
+- Graphs + Queue
+- Graphs + Specific_Algorithms
+- Graphs + Topological_Sort
+- Graphs + Two_Pointer
+- Graphs + Union_Find
 
 ---
 
