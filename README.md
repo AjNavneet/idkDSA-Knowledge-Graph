@@ -118,7 +118,24 @@ This repository focuses on algorithmic practices for Data Structures using pytho
 
 ---
 
-## Trees
+## Math Based -> ✅ 
+
+- Math + Array
+- Math + Backtracking
+- Math + Binary_Search
+- Math + Bit_Manipulation
+- Math + Dynamic_Programming
+- Math + Greedy
+- Math + Puzzle
+- Math + Queue
+- Math + Recursion
+- Math + Simple
+- Math + Sliding_Window
+- Math + Stack
+- Math + String
+- Math + Two_Pointers
+
+---
 
 
 
