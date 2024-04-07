@@ -91,7 +91,7 @@ This repository focuses on algorithmic practices for Data Structures using pytho
 
 ---
 
-## Puzzles
+## Hash Table Basics -> ✅ 
 
 ---
 
