@@ -68,7 +68,14 @@ This repository focuses on algorithmic practices for Data Structures using pytho
 
 ---
 
-## Math Based
+## Binary Tree -> ✅
+
+- Binary_Tree + BFS
+- Binary_Tree + DFS
+- Binary_Tree + DnC
+- Binary_Tree + Dynamic_Programming
+- Binary_Tree + Traversal
+- Binary_Tree + Trie
 
 ---
 
