@@ -95,7 +95,18 @@ This repository focuses on algorithmic practices for Data Structures using pytho
 
 ---
 
-## Queue & Stacks
+## Matrix -> ✅ 
+
+- Matrix + Array
+- Matrix + BFS
+- Matrix + Binary_Search
+- Matrix + DFS
+- Matrix + Dynamic_Programming
+- Matrix + Hash_Table
+- Matrix + Prefix_Sum
+- Matrix + Queue
+- Matrix + Simulation
+- Matrix + Two_Pointers
 
 ---
 
